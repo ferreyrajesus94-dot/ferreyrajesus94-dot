@@ -3,11 +3,11 @@
   <a href="README.es.md">🇪🇸 Español</a>
 </p>
 
-# Hi, I'm Jesus 👋
+# Hola, soy Jesus 👋
 
-Full-stack developer in Argentina. I build focused tools that solve real problems — mostly TypeScript, Next.js, and serverless Postgres.
+Desarrollador full-stack en Argentina. Construyo herramientas enfocadas que resuelven problemas reales — sobre todo TypeScript, Next.js y Postgres serverless.
 
-I think good architecture beats more features, and shipping beats polishing.
+Creo que la buena arquitectura le gana a más features, y entregar le gana a pulir.
 
 ---
 
@@ -26,27 +26,27 @@ I think good architecture beats more features, and shipping beats polishing.
 
 ---
 
-## Featured project
+## Proyecto destacado
 
 ### 🪚 [carpinteroPro](https://github.com/ferreyrajesus94-dot/carpinteroPro)
 
-A TypeScript project for a carpentry business — full-stack tooling for managing projects, clients, and quotes.
+Un proyecto en TypeScript para un negocio de carpintería — tooling full-stack para gestionar proyectos, clientes y presupuestos.
 
 ---
 
-## Other projects
+## Otros proyectos
 
-- **[presupuesto-velas](https://github.com/ferreyrajesus94-dot/presupuesto-velas)** — single-owner ARS candle quote app. Next.js 16 + Neon Auth + Neon serverless Postgres.
-- **[engram-sync](https://github.com/ferreyrajesus94-dot/engram-sync)** — tooling around the Engram memory system.
-
----
-
-## How I work
-
-- Architecture first, features second
-- Ship, then iterate with real feedback
-- Pick tools that age well
+- **[presupuesto-velas](https://github.com/ferreyrajesus94-dot/presupuesto-velas)** — app de presupuestos de velas ARS para un único dueño. Next.js 16 + Neon Auth + Postgres serverless.
+- **[engram-sync](https://github.com/ferreyrajesus94-dot/engram-sync)** — tooling alrededor del sistema de memoria Engram.
 
 ---
 
-<sub>Built with a self-hosted README. No trophies, no stats, no broken external services.</sub>
+## Cómo trabajo
+
+- Arquitectura primero, features después
+- Entregar, después iterar con feedback real
+- Elegir herramientas que envejezcan bien
+
+---
+
+<sub>Hecho con un README auto-hospedado. Sin trofeos, sin stats, sin servicios externos rotos.</sub>
