@@ -37,7 +37,6 @@ Un proyecto en TypeScript para un negocio de carpintería — tooling full-stack
 ## Otros proyectos
 
 - **[presupuesto-velas](https://github.com/ferreyrajesus94-dot/presupuesto-velas)** — app de presupuestos de velas ARS para un único dueño. Next.js 16 + Neon Auth + Postgres serverless.
-- **[engram-sync](https://github.com/ferreyrajesus94-dot/engram-sync)** — tooling alrededor del sistema de memoria Engram.
 
 ---
 
